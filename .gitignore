@@ -1,0 +1,22 @@
+# 依赖
+client/node_modules/
+server/__pycache__/
+server/**/__pycache__/
+*.pyc
+
+# 环境变量
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# 系统
+.DS_Store
+Thumbs.db
+
+# Flask
+instance/
+
+# Vite
+client/dist/
